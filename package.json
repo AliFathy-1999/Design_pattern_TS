@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -w",
-    "start": "node dist/state_design_pattern.js"
-
+    "state": "node dist/state_design_pattern",
+    "observer":"node dist/Observer_design_pattern"
   },
   "keywords": [],
   "author": "",
